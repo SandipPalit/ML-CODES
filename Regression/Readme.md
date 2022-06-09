@@ -16,3 +16,25 @@ Data available in the hourly response:
 * visibility
 * loudCover
 * pressure
+
+---
+
+### USA Real Estate Dataset
+
+Kaggle Link:  https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
+
+This dataset contains Real Estate listings in the US broken by State and zip code.
+
+The dataset has 1 CSV file with 12 columns:
+* status
+* price
+* bed
+* bath
+* acre_lot
+* full_address
+* street
+* city
+* state
+* zip_code
+* house_size
+* sold_date
